@@ -10,6 +10,7 @@
 //Now the variable buttonElement stores the element with id button1, in other words, the button on the page!
 var buttonElement = document.getElementById("button1");
 
+
 //Now for something cool that JavaScript can do - FUNCTIONS!
 //Functions are a way of grouping related instructions together so that our code doesn't get messy.
 //You'll notice that on the HTML, we have something called "onclick". In other words, what do you want the page to do when you click the button?
