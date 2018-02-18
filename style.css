@@ -1,0 +1,10 @@
+/*This is a CSS file. CSS stands for Cascading Style Sheets, and it essentially makes your website pretty!*/
+/*Beginning CSS syntax is not very hard, but it can get tricky as you go along. First, we'll start off simple. */
+/*Like in JavaScript, you need to give HTML and CSS permission to talk to each other. Luckily, we
+can do that by importing a CSS file in the HTML. Check out line 2 to see what I mean!*/
+
+html { /*Do this for all the HTML, everywhere in the HTML*/
+    background-color: blueviolet; /*Change the background color */
+    color: white; /*Change the text color*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*Change the font*/
+}
